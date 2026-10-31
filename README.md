@@ -1,9 +1,3 @@
-# `WELCOME TO MY GITHUB`
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff304f,50:ffffff,100:ff304f&height=3&section=header&animation=twinkling" width="100%" />
-</div>
-
 <div align="center">
   <img
     src="https://i.giphy.com/DoQFAlzLOA9iw.gif"
@@ -17,7 +11,19 @@
 </div>
 
 
-# `P E N G U 1 N`
+<h1 align="center">
+  <span style="
+    color: #ffffff;
+    text-shadow:
+      0 0 5px #ffee00,
+      0 0 10px #ffee00,
+      0 0 20px #39ff14,
+      0 0 35px #39ff14,
+      0 0 45px #ff3030;
+  ">
+    P E N G U 1 N
+  </span>
+</h1>
 
 ### For that which I do I allow not: for what I would, that do I not; but what I hate, that do I.
 
