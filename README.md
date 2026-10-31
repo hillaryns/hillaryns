@@ -11,19 +11,9 @@
 </div>
 
 
-<h1 align="center">
-  <span style="
-    color: #ffffff;
-    text-shadow:
-      0 0 5px #ffee00,
-      0 0 10px #ffee00,
-      0 0 20px #39ff14,
-      0 0 35px #39ff14,
-      0 0 45px #ff3030;
-  ">
-    P E N G U 1 N
-  </span>
-</h1>
+<div align="center">
+  <img src="./penguin-title.svg" width="70%" alt="PENGU1N" />
+</div>
 
 ### For that which I do I allow not: for what I would, that do I not; but what I hate, that do I.
 
