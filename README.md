@@ -57,6 +57,17 @@ class Pengu1n:
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff304f,50:ffffff,100:ff304f&height=3&section=header&animation=twinkling" width="100%" />
 </div>
 
+## 👾 `contribution_graph`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hillaryns/hillaryns/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/hillaryns/hillaryns/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -106,16 +117,7 @@ class Pengu1n:
 
 </div>
 
-## 👾 `contribution_graph`
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hillaryns/hillaryns/output/pacman-contribution-graph-dark.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/hillaryns/hillaryns/output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
 
 ## `currently`
 
