@@ -5,7 +5,11 @@
 </div>
 
 <div align="center">
-  <img src="https://giphy.com/gifs/hoppip-animation-hoppip-DoQFAlzLOA9iw" width="100%" alt="PENGU1N animated background" />
+  <img
+    src="https://i.giphy.com/DoQFAlzLOA9iw.gif"
+    width="100%"
+    alt="PENGU1N animated background"
+  />
 </div>
 
 <div align="center">
