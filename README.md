@@ -22,13 +22,12 @@
 ```python
 class Halcyon:
     def __init__(self):
-        self.role = "AI & ML Student"
+        self.role = "Student"
         self.interests = [
             "Artificial Intelligence",
             "Full-Stack Development",
             "Cybersecurity",
             "Linux & Operating Systems",
-            "Chess"
         ]
         self.languages = ["Python", "JavaScript", "C"]
         self.current_focus = "Building useful things"
