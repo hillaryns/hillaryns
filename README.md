@@ -16,7 +16,6 @@
 ---
 
 ## `whoami`
-
 ```python
 class Pengu1n:
     def __init__(self):
@@ -33,7 +32,12 @@ class Pengu1n:
     def motto(self):
         return "NEIN, NURRRR, SLWWPY"
 ```
+## 🌐 Connect With Me
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hillaryns)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pengu_1n_1/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/KSPengu1n/)
+[![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=lichess&logoColor=white)](https://www.chess.com/member/meowwww_wwwwwwwwwww)
 ## `tech_stack`
 
 <div align="center">
