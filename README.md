@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://github.com/Hillaryns">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Full-Stack+Developer;Python+%7C+React+%7C+JavaScript;Linux+Enthusiast+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Student;PENGU1N;Weeb;Full-Stack+Developer;Python+%7C+React+%7C+JavaScript;Linux+Enthusiast+%7C+Problem+Solver" />
 </a>
 
 <br/>
