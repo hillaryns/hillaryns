@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff304f,50:ffffff,100:ff304f&height=3&section=header&animation=twinkling" width="100%" />
+  <img src="./cat.gif" width="70%" alt="Sleeping cat playing with a ball"/>
 </div>
 
 
