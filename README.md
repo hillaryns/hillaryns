@@ -20,7 +20,7 @@
 ## `whoami`
 
 ```python
-class Halcyon:
+class Pengu1n:
     def __init__(self):
         self.role = "Student"
         self.interests = [
@@ -33,7 +33,7 @@ class Halcyon:
         self.current_focus = "Building useful things"
 
     def motto(self):
-        return "Learn. Build. Break. Repeat."
+        return "NEIN, NURRRR, SLWWPY"
 ```
 
 ## `tech_stack`
