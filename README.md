@@ -1,8 +1,8 @@
  <div align="center">
 
-# `H A L C Y O N`
+# `P E N G U 1 N`
 
-### Building things that probably shouldn't exist. 
+### For that which I do I allow not: for what I would, that do I not; but what I hate, that do I. 
 
 <a href="https://github.com/Hillaryns">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Full-Stack+Developer;Python+%7C+React+%7C+JavaScript;Linux+Enthusiast+%7C+Problem+Solver" />
