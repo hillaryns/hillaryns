@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./assets/angel.gif" width="220" />
+</div>
  <div align="center">
 
 # `P E N G U 1 N`
