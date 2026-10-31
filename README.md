@@ -80,6 +80,27 @@ class Halcyon:
 
 <div align="center">
 
+<a href="https://discord.com/users/pengu1_n">
+  <img src="https://img.shields.io/badge/Discord-pengu1__n-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/pengu_1n_1/">
+  <img src="https://img.shields.io/badge/Instagram-pengu__1n__1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/KSPengu1n/">
+  <img src="https://img.shields.io/badge/Facebook-KSPengu1n-0866FF?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.chess.com/member/meowwww_wwwwwwwwwww">
+  <img src="https://img.shields.io/badge/Chess.com-meowwww__wwwwwwwwwww-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+*Find me where code, chaos and chess collide.*
+
+</div>
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Hillaryns)
 
 <br/>
