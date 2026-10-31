@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="./angel.gif" width="220" />
+  <img src="./angel.gif" width="650" height="220" />
 </div>
- <div align="center">
 
 # `P E N G U 1 N`
 
