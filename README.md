@@ -103,8 +103,6 @@ class Pengu1n:
 
 <div align="center">
 
-*Find me where code, chaos and chess collide.*
-
-*"The best way to predict the future is to build it."*
+*IT IS WHAT IT IS*
 
 </div>
