@@ -7,7 +7,7 @@
 <div align="center">
   <img
     src="https://i.giphy.com/DoQFAlzLOA9iw.gif"
-    width="60%"
+    width="40%"
     alt="PENGU1N animated background"
   />
 </div>
