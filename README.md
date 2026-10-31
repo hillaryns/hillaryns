@@ -16,7 +16,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=1&duration=1000&pause=1000&color=FF304F&center=true&vCenter=true&width=1000&height=2&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" width="100%" />
+</div>
 
 ## `whoami`
 
@@ -36,6 +38,10 @@ class Pengu1n:
     def motto(self):
         return "NEIN, NURRRR, SLWWPY"
 ```
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=1&duration=1000&pause=1000&color=FF304F&center=true&vCenter=true&width=1000&height=2&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" width="100%" />
+</div>
 
 ## 🌐 Connect With Me
 
@@ -59,6 +65,10 @@ class Pengu1n:
 **Frameworks & Backend**
 
 <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,tailwind,mongodb" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=1&duration=1000&pause=1000&color=FF304F&center=true&vCenter=true&width=1000&height=2&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" width="100%" />
+</div>
 
 **Tools & Environment**
 
