@@ -1,6 +1,10 @@
-<div align="center">
-  <img src="./angel.gif" width="650" height="220" />
-</div>
+### 🎄 PENGU1N — Interactive 3D Christmas Scene
+
+A little interactive corner of the internet featuring a 3D penguin, snowfall, orbital animations and a Christmas atmosphere.
+
+[🐧 Visit the live experience](https://hillaryns.github.io/penguin-3d-scene/)
+
+[![PENGU1N](https://img.shields.io/badge/3D%20Experience-Live-DC3545?style=for-the-badge&logo=threedotjs&logoColor=white)](https://hillaryns.github.io/penguin-3d-scene/)
 
 # `P E N G U 1 N`
 
