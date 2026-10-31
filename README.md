@@ -65,11 +65,7 @@ class Halcyon:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hillaryns&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hillaryns&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=C9D1D9" />
-
-<img width="90%" src="https://streak-stats.demolab.com?user=Hillaryns&theme=transparent&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hillaryns&theme=github_dark)
 
 </div>
 
