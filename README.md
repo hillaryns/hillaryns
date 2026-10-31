@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./cat.gif" width="70%" alt="Sleeping cat playing with a ball"/>
+  <img src="./cat.gif" width="100%" alt="Sleeping cat playing with a ball"/>
 </div>
 
 <div align="center">
