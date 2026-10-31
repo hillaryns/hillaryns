@@ -1,15 +1,10 @@
 <div align="center">
-  <img
-    src="https://i.giphy.com/DoQFAlzLOA9iw.gif"
-    width="40%"
-    alt="PENGU1N animated background"
-  />
-</div>
-
-<div align="center">
   <img src="./cat.gif" width="70%" alt="Sleeping cat playing with a ball"/>
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff304f,50:ffffff,100:ff304f&height=3&section=header&animation=twinkling" width="100%" />
+</div>
 
 <div align="center">
   <img src="./penguin-title.svg" width="70%" alt="PENGU1N" />
