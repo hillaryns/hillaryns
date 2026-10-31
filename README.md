@@ -90,7 +90,7 @@ class Halcyon:
   <img src="https://img.shields.io/badge/Facebook-KSPengu1n-0866FF?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://www.chess.com/member/meowwww_wwwwwwwwwww">
-  <img src="https://img.shields.io/badge/Chess.com-meowwww__wwwwwwwwwww-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chess.com-2000%20Bullet%20Rating-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" />
 </a>
 
 </div>
