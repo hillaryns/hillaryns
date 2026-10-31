@@ -1,3 +1,17 @@
+# `WELCOME TO MY GITHUB`
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff304f,50:ffffff,100:ff304f&height=3&section=header&animation=twinkling" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://giphy.com/gifs/hoppip-animation-hoppip-DoQFAlzLOA9iw" width="100%" alt="PENGU1N animated background" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff304f,50:ffffff,100:ff304f&height=3&section=header&animation=twinkling" width="100%" />
+</div>
+
 
 # `P E N G U 1 N`
 
@@ -66,15 +80,16 @@ class Pengu1n:
 
 <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,tailwind,mongodb" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff304f,50:ffffff,100:ff304f&height=3&section=header&animation=twinkling" width="100%" />
-</div>
-
 **Tools & Environment**
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
 
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff304f,50:ffffff,100:ff304f&height=3&section=header&animation=twinkling" width="100%" />
+</div>
+
 
 ## `featured_projects`
 
